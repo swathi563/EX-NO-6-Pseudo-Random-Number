@@ -1,3 +1,4 @@
+
 # EX-NO-6-Pseudo-Random-Number
 
 # AIM: 
@@ -39,13 +40,21 @@ int main()
 # OUTPUT:
 
 Enter the number of random numbers: 6
+
 Pseudorandom numbers are:
+
 557242885
+
 1550853698
+
 1943947565
+
 817026389
+
 1471073671
+
 1717365907
+
 
 <img width="687" height="272" alt="image" src="https://github.com/user-attachments/assets/ecac78df-d326-49ac-87b4-e6d1e63df44c" />
 
